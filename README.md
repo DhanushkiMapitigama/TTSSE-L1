@@ -27,3 +27,5 @@ Algorithm:
 -Continue until you reach the square root of n. 
 
 -The remaining uncrossed numbers are all the prime numbers up to n.
+
+t consumes a lot of memory, especially for large values of n, and becomes inefficient as n grows very large. The algorithm also doesn’t take advantage of parallel processing, which can be a drawback for huge ranges. Additionally, it’s not the best choice for testing individual large numbers for primality, or when dealing with very large numbers (e.g., in cryptography), where other methods like the Miller-Rabin test or AKS primality test may be more appropriate.
