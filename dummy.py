@@ -1,4 +1,7 @@
 # Python script
+"""
+Author: ChatGPT
+"""
 
 def sieve_of_eratosthenes(limit): # ChatGPT gave this script - did not check the correctness
 """
