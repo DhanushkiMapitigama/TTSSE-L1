@@ -13,3 +13,8 @@ The program uses an optimized method by checking divisibility only up to the squ
 
 All prime numbers in the range are printed to the console.
 
+🛠️ Functions
+is_prime(number): Returns True if the number is prime, False otherwise.
+
+main(): Iterates through the numbers from 1 to 1000 and prints the prime ones.
+
