@@ -5,3 +5,11 @@ This is a simple Python program that identifies and prints all prime numbers wit
 
 📋 Description
 The program includes a function to check whether a given number is prime. It then iterates through numbers from 1 to 1000 and prints each number that is identified as prime.
+
+🧠 How It Works
+A number is considered prime if it is greater than 1 and has no divisors other than 1 and itself.
+
+The program uses an optimized method by checking divisibility only up to the square root of the number.
+
+All prime numbers in the range are printed to the console.
+
