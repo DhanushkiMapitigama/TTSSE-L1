@@ -22,3 +22,5 @@ main(): Iterates through the numbers from 1 to 1000 and prints the prime ones.
 Make sure you have Python installed. Then run the program with:
 python prime.py
 
+📄 Author
+Chat GPT (Generated)
